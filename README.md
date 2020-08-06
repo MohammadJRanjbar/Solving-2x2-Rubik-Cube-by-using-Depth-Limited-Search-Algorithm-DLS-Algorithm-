@@ -18,7 +18,7 @@ It will show the Rubik like below image
 This will check if the Rubik is solved or not and returns a true of flase 
 #matrix Class: 
 This class I have explained it in another repository before you can find it here
-* **graph class ** : 
+* **graph class** : 
 It will get the number of depth and solve the Rubik based on the below algorithm
 
 <img src="Pics/F2.png" width="800" class="center" />
