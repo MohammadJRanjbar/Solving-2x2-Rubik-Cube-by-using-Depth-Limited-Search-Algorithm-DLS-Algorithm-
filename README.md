@@ -1,4 +1,5 @@
 # Solving-2x2-Rubik-Cube-by-using-Depth-Limited-Search-Algorithm-DLS-Algorithm-
+
 In this project, we designed a 2x2 Rubik cube that is playable and the user can give his colors so the program will test if the Rubik is solvable 
 (this program is not optimized i didn't have enough time to do it ) 
 
